@@ -44,7 +44,7 @@
   - Notepad++.
   - Sublime Next.
   - Visual Studio Code [Intermediate].
-- ⚡ Fun fact: ... Friend's calls me Chinta, sometimes Chintu.
+- ⚡ Fun fact: ... Friend's call me Chinta or sometimes Chintu.
 <!---
 chintamani07/chintamani07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
