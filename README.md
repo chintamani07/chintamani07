@@ -40,11 +40,11 @@
   - Microsoft Visual Studio [Intermediate].
   - NetBeans [Intermediate].
   - PyCharm [Intermediate].
-* Text Editor :
+* Text Editor : [Intermediate].
   - Notepad.
   - Notepad++.
   - Sublime Next.
-  - Visual Studio Code [Intermediate].
+  - Visual Studio Code 
 - ⚡ Fun fact: ... Friend's call me Chinta or sometimes Chintu.
 <!---
 chintamani07/chintamani07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
