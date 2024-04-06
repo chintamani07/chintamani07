@@ -19,7 +19,7 @@
 
 # Volunteer Work : MAP FEST 2019-2020, Matoshri Aasarabai Polytechnic.
 # METASTORM'22-23, MET'S BKC, IOE, Nashik.
-NBA Student's Lead : 2023-2024. 
+# NBA Student's Lead : 2023-2024. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
