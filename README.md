@@ -40,7 +40,7 @@
   - Microsoft Visual Studio [Intermediate].
   - NetBeans [Intermediate].
   - PyCharm [Intermediate].
-* Text Editor : [Intermediate].
+* Text Editor :
   - Notepad.
   - Notepad++.
   - Sublime Next.
