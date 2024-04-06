@@ -1,6 +1,6 @@
 * 👋 Hi, I’m @chintamani07.
 * 👀 I’m interested in Dot Net (.NET) Development, Web Development, Information Security.
-* 🌱 I’m currently persuing B.E. in Computer Engineering From MET'S Bhujbal Knowledge City, Institute of Engineering 2021-2024.
+* 🌱 I’m currently persuing B.E. in Computer Engineering From MET'S Bhujbal Knowledge City, Institute of Engineering, Aadgaon Nasik, 2021-2024.
 * 📫 How to reach me :
   - Gmail : chintavw07@gmail.com.
   - GUVI : https://www.guvi.in/chintamaniwankhede12308.
