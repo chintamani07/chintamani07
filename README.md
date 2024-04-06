@@ -1,6 +1,6 @@
 * 👋 Hi, I’m @chintamani07.
 * 👀 I’m interested in Dot Net (.NET) Development - Desktop App, Web Development, Information Security.
-* 🌱 Completed Diploma in Computer Engineering [MSBTE] From Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Odha, Eklahare, Nashik, 2019-2021.
+* 🌱 Completed Diploma in Computer Engineering [MSBTE] from Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Odha, Eklahare, Nashik, 2019-2021.
 * 📫 How to reach me :
   - Gmail : chintavw07@gmail.com.
 * Additional Information :
