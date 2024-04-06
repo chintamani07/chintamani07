@@ -1,7 +1,7 @@
 * 👋 Hi, I’m @chintamani07.
 * 👀 I’m interested in Dot Net (.NET) Development, Web Development, Information Security.
-* 🌱 I’m currently persuing B.E. in Computer Engineering From MET'S Bhujbal Knowledge City, Institute of Engineering, Aadgaon, Nasik, 2021-2024.
-* 🌱 Completed Diploma in Computer Engineering From Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Odha, Eklahare, Nashik.
+* 🌱 I’m currently persuing B.E. in Computer Engineering [SPPU] From MET'S Bhujbal Knowledge City, Institute of Engineering, Aadgaon, Nasik, 2021-2024.
+* 🌱 Completed Diploma in Computer Engineering [MSBTE] From Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Odha, Eklahare, Nashik, 2019-2021.
 * 📫 How to reach me :
   - Gmail : chintavw07@gmail.com.
   - GUVI : https://www.guvi.in/chintamaniwankhede12308.
