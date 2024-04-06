@@ -3,9 +3,6 @@
 * 🌱 Completed Diploma in Computer Engineering [MSBTE] From Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Odha, Eklahare, Nashik, 2019-2021.
 * 📫 How to reach me :
   - Gmail : chintavw07@gmail.com.
-  - GUVI : https://www.guvi.in/chintamaniwankhede12308.
-  - LinkedIn : https://www.linkedin.com/in/chintamani-wankhede-b0137025a/.
-  - Instagram : https://www.instagram.com/chinta_1011/.
 * Additional Information :
   # Secured 3rd Rank in Computer Engineering Diploma(MSBTE), Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Odha, Eklahare, Nashik.
   # Internshala Trainings : Overall Rating 4/5.
