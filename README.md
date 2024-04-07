@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/in/chintamani-wankhede-b0137025a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/chintamani-wankhede-b0137025a" height="30" width="40" /></a>
 <a href="https://instagram.com/chinta_1011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinta_1011" height="30" width="40" /></a>
 </p>
-<a href="https://www.guvi.in/chintamaniwankhede12308" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Flakshmi-devarajan-83341b250&psig=AOvVaw3SOYSoO4m-t9fjd3VeaGUx&ust=1712560284830000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDqx7HGr4UDFQAAAAAdAAAAABAJ" alt="chintamaniwankhede12308" height="30" width="40" /></a>
+<a href="https://www.guvi.in/chintamaniwankhede12308" target="blank"><img align="center" src="‪C:\Users\User\Downloads\guvi_icon.svg" alt="chintamaniwankhede12308" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
