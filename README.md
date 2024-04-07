@@ -19,8 +19,8 @@
 
 # 👍 GUVI Geekoins : 3850.
 
-# Volunteer Work : MAP FEST 2K19-2K20.
-# Coordinator Work : METASTORM'22-23.
+# ⚡ Volunteer Work : MAP FEST 2K19-2K20.
+# ⚡ Coordinator Work : METASTORM'22-23 🔭 [Student's Association of Computer] 🔭.
 
 
 <h3 align="left">Connect with me:</h3>
