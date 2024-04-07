@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning Framework : **ASP.NET, ASP.NET MVC.**
 
 - 📫 How to reach me
-     1. EMAIL ID : **chintavw07@gmail.com**
-     2. GUVI : **https://www.guvi.in/chintamaniwankhede12308**
+     ● EMAIL ID : **chintavw07@gmail.com**
 
 - ⚡ Fun fact : **Friend's call me Chinta or Chintu sometimes.**
 
