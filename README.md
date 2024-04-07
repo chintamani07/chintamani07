@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning Framework : **ASP.NET, ASP.NET MVC.**
 
-- 📫 How to reach me **chintavw07@gmail.com**
+- 📫 How to reach me
+     1. EMAIL ID : **chintavw07@gmail.com**
+     2. GUVI : **https://www.guvi.in/chintamaniwankhede12308**
 
 - ⚡ Fun fact **Friend's call me Chinta or Chintu sometimes.**
 
@@ -24,8 +26,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/in/chintamani-wankhede-b0137025a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/chintamani-wankhede-b0137025a" height="30" width="40" /></a>
 <a href="https://instagram.com/chinta_1011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinta_1011" height="30" width="40" /></a>
-</p>
-<a href="https://www.guvi.in/chintamaniwankhede12308" target="blank"><img align="center" src="‪C:\Users\User\Downloads\guvi_icon.svg" alt="chintamaniwankhede12308" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
