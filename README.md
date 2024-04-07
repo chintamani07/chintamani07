@@ -15,9 +15,9 @@
 
 # 🥇 Secured 3rd Rank in Computer Engineering Diploma(MSBTE), Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Odha, Eklahare, Nashik.
 
-# Internshala Trainings : Overall Rating 4/5.
+# 👍 Internshala Trainings : Overall Rating 4/5.
 
-# GUVI Geekoins : 3850.
+# 👍 GUVI Geekoins : 3850.
 
 # Volunteer Work : MAP FEST 2K19-2K20.
 # Coordinator Work : METASTORM'22-23.
