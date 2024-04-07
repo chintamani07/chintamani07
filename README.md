@@ -19,7 +19,7 @@
 # 👍 GUVI Geekoins : °3850.
 
 # ⚡ Volunteer Work : MAP FEST 2K19-2K20.
-# ⚡ Coordinator Work : METASTORM'22-23 🔭 SAC [Student's Association of Computer] - Computer Engineering Department 🔭.
+# ⚡ Coordinator Work : METASTORM'22-23 🔭 SAC [Student's Association of Computer] - Computer Engineering 🔭.
 
 
 <h3 align="left">Connect with me:</h3>
