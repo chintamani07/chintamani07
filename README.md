@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Chintamani Vijaykumar Wankhede 🕶</h2>
-<h4 align="center"> 🚀 A Passionate Dot Net Desktop Application Developer from India 🚀 </h4>
+<h4 align="center"> 🚀 A Passionate Trainee Dot NET Developer from India 🚀 </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintamani07&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani07" /> </p>
 
