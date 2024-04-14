@@ -10,13 +10,13 @@
 - 📫 How to reach me
      ☆ EMAIL ID : **chintavw07@gmail.com**
 
-- ⚡ Fun fact : **Friend's call me Chinta or Chintu sometimes.**
+- ⚡ Fun fact : **Friend's call me Chinta**
 
-# 🥉 Secured 3rd Rank in Computer Engineering Diploma(MSBTE), Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik.
+# 🥉 Secured 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik.
 
-# 🎖 Internshala Trainings : Overall Rating ☆☆☆☆ 4/5.
+# 🎖 Internshala : Overall Rating ☆☆☆☆/5.
 
-# 👍 GUVI Geekoins : 🪙 3850.
+# 🪙 GUVI Geekoins :  3850.
 
 # 💎 Volunteer Work : MAP FEST 2K19-2K20.
 # 🖇 Coordinator Work : METASTORM 22-24 SAC 🔭 || NBA Student's Lead 🔭.
