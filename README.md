@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Healthcare Record System Using Blockchain.](https://github.com/chintamani07/Healthcare-Record-System-Using-Blockchain---Level2-Stage-2-)
 
-- 🖱 I’m currently learning : **ASP.NET.**
+- 📷 I love Macro-Photography.
 
 - 💻 EMAIL ID : **chintavw07@gmail.com.**
 
