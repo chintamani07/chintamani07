@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact : **Friend's call me Chinta or Chintu sometimes.**
 
-# 🥇 Secured 3rd Rank in Computer Engineering Diploma(MSBTE), Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Odha, Eklahare, Nashik.
+# 🥉 Secured 3rd Rank in Computer Engineering Diploma(MSBTE), Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Odha, Eklahare, Nashik.
 
 # 👍 Internshala Trainings : Overall Rating ☆☆☆☆ 4/5.
 
