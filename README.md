@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on [Healthcare Record System Using Blockchain.](https://github.com/chintamani07/Healthcare-Record-System-Using-Blockchain---Level2-Stage-2-)
 
-- 🌱 I’m currently learning : **ASP.NET**
+- 🌱 I’m currently learning : **ASP.NET.**
 
-- 📫 ☆ EMAIL ID : **chintavw07@gmail.com**
+- 📫 ☆ EMAIL ID : **chintavw07@gmail.com.**
 
-- ⚡ Fun fact : **Friend's call me Chinta**
+- ⚡ Fun fact : **Friend's call me Chinta.**
 
 # 🥉 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik.
 
 # 🎖 Internshala : Overall Rating ☆☆☆☆/5.
 
-# 🪙 GUVI Geekoins :  3850.
+# 🪙 GUVI Geekoins : 3850.
 
 # 💎 Volunteer Work : MAP FEST 2K19-2K20.
 # 🖇 Coordinator Work : METASTORM 22-24 SAC 🔭 || NBA Student's Lead 🔭.
