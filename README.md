@@ -16,7 +16,7 @@
 
 # 👍 Internshala Trainings : Overall Rating ☆☆☆☆ 4/5.
 
-# 👍 GUVI Geekoins : °3850.
+# 👍 GUVI Geekoins : 3850 🪙.
 
 # ⚡ Volunteer Work : MAP FEST 2K19-2K20.
 # ⚡ Coordinator Work : METASTORM'22-23 🔭 SAC [Student's Association of Computer] - Computer Engineering 🔭.
