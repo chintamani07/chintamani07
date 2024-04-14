@@ -8,7 +8,7 @@
 
 - 🖱 I’m currently learning : **ASP.NET.**
 
-- 💻 ☆ EMAIL ID : **chintavw07@gmail.com.**
+- 💻 EMAIL ID : **chintavw07@gmail.com.**
 
 - ⚡ Fun fact : **Friend's call me Chinta.**
 
