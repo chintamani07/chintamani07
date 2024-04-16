@@ -10,6 +10,8 @@
 
 - 💻 EMAIL ID : **chintavw07@gmail.com.**
 
+- 📄 Know about my experiences [https://www.canva.com/design/DAGCi3eEfTc/F7npp1FAp3FyA6_wzank5w/view?utm_content=DAGCi3eEfTc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel](https://www.canva.com/design/DAGCi3eEfTc/F7npp1FAp3FyA6_wzank5w/view?utm_content=DAGCi3eEfTc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+
 - ⚡ Fun fact : **Friend's call me Chinta.**
 
 # 🥉 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik.
