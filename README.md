@@ -1,11 +1,14 @@
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1518535%2Fscreenshots%2F7927296%2Fmedia%2Fc1574c1dec3fbc5f8cacb35683586bbf.gif&tbnid=NQLQxaVTRf8EaM&vet=1&imgrefurl=https%3A%2F%2Fsvauto.dk%2Ffunny-gifs-pc-gif-rr-NV2knZFd&docid=AfTRIzrx-LgTnM&w=1600&h=1200&itg=1&source=sh%2Fx%2Fim%2Fm5%2F2&kgs=87a8c10b5084d6f8&shem=abme%2Ctrie)]
+
 <h2 align="center">Hi 👋, I'm Chintamani Vijaykumar Wankhede 🕶 </h2>
 <h4 align="center"> 🚀 A Passionate Trainee Dot NET Developer from India 🚀 </h4>.
 <h5 align="left"> 🖥 Window's Desktop Application Development 🖥 </h5>
 
-<img align="right" width="90" alt = "profile" src = "https://drive.google.com/file/d/1V9JorZ-B0Lxfi3qQjiNQZIFeNlVfeJUq/view?usp=drivesdk">;
+<img align="right" width="90" alt = "profile" src = 
+"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1518535%2Fscreenshots%2F7927296%2Fmedia%2Fc1574c1dec3fbc5f8cacb35683586bbf.gif&tbnid=NQLQxaVTRf8EaM&vet=1&imgrefurl=https%3A%2F%2Fsvauto.dk%2Ffunny-gifs-pc-gif-rr-NV2knZFd&docid=AfTRIzrx-LgTnM&w=1600&h=1200&itg=1&source=sh%2Fx%2Fim%2Fm5%2F2&kgs=87a8c10b5084d6f8&shem=abme%2Ctrie">;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chintamani07&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani07" /> </p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=chintamani07&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani07" /> </p>
 
 - 🔭 I’m currently working on [Advanced Data Security Centric EMR System.](https://github.com/chintamani07/Advanced-Data-Security-Centric-EMR-System)
 
