@@ -1,11 +1,8 @@
-[![MasterHead](https://images.app.goo.gl/NkFypF8ZJ4Q3jjZXA)]
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h2 align="center">Hi 👋, I'm Chintamani Vijaykumar Wankhede 🕶 </h2>
 <h4 align="center"> 🚀 A Passionate Trainee Dot NET Developer from India 🚀 </h4>.
 <h5 align="left"> 🖥 Window's Desktop Application Development 🖥 </h5>
-
-<img align="right" width="90" alt = "profile" src = 
-"https://images.app.goo.gl/Wxfkj489ni1hB2YY9">;
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=chintamani07&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani07" /> </p>
