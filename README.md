@@ -2,6 +2,8 @@
 <h4 align="center"> 🚀 A Passionate Trainee Dot NET Developer from India 🚀 </h4>.
 <h5 align="left"> 🖥 Window's Desktop Application Development 🖥 </h5>
 
+<img align="right" width="90" alt = "profile" src = "https://drive.google.com/file/d/1V9JorZ-B0Lxfi3qQjiNQZIFeNlVfeJUq/view?usp=drivesdk">;
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintamani07&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani07" /> </p>
 
 - 🔭 I’m currently working on [Advanced Data Security Centric EMR System.](https://github.com/chintamani07/Advanced-Data-Security-Centric-EMR-System)
@@ -9,8 +11,6 @@
 - 📷 I love Macro-Photography of insects || flowers || nature || various creatures, etc.
 
 - 💻 EMAIL ID : **chintavw07@gmail.com.**
-
-- 📄 My Resume ==> [https://www.canva.com/design/DAGCcjVlQdM/PQGfPgQMi1nFgL__UGHIJQ/view?utm_content=DAGCcjVlQdM&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGCcjVlQdM/PQGfPgQMi1nFgL__UGHIJQ/view?utm_content=DAGCcjVlQdM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - ⚡ Fun fact : **Friend's call me Chinta.**
 
