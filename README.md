@@ -1,11 +1,10 @@
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0czFpNDV4ZDd1bmp6c28wNzk3ZXg1eWo2dGxqdWk4OGl3YXR4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 <h2 align="center">Hi 👋, I'm Chintamani Vijaykumar Wankhede 🕶 </h2>
 <h4 align="center"> 🚀 A Passionate Trainee Dot NET Developer from India 🚀 </h4>.
 <h5 align="left"> 🖥 Window's Desktop Application Development 🖥 </h5>
 
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0czFpNDV4ZDd1bmp6c28wNzk3ZXg1eWo2dGxqdWk4OGl3YXR4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)">
-
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=chintamani07&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani07" /> </p>
+<img align="right" src="https://komarev.com/ghpvc/?username=chintamani07&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani07" /> </p>
 
 - 🔭 I’m currently working on [Advanced Data Security Centric EMR System.](https://github.com/chintamani07/Advanced-Data-Security-Centric-EMR-System)
 
