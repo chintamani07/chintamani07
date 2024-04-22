@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1200" height="140" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0czFpNDV4ZDd1bmp6c28wNzk3ZXg1eWo2dGxqdWk4OGl3YXR4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 <h3 align="center">Hi 👋, I'm Chintamani Vijaykumar Wankhede 🕶 </h3>
-<h4 align="center" style="color:Red";> 🚀 A Passionate Trainee Dot NET Developer from India 🚀 </h4>.
-<h5 align="left"> 🖥 Window's Desktop Application Development 🖥 </h5>
+<h4 align="center"> 🚀 Trainee Dot NET Developer 🚀 </h4>.
+<h5 align="center"> 🖥 Window's Desktop Application Development 🖥 </h5>
 
 <p align="left">
 <img align="right" src="https://komarev.com/ghpvc/?username=chintamani07&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani07" /> </p>
