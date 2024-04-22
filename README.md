@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="1200" height="140" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0czFpNDV4ZDd1bmp6c28wNzk3ZXg1eWo2dGxqdWk4OGl3YXR4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
-<h4 align="center">Hi 👋, I'm Chintamani Vijaykumar Wankhede 🕶 </h4>
+<h4 align="center">👋 I'm Chintamani Vijaykumar Wankhede 🕶 </h4>
 <h5 align="center"> 🚀 Trainee Dot NET Developer 🚀 </h5>.
 <h6 align="center"> 🖥 Window's Desktop Application Development 🖥 </h6>
 
