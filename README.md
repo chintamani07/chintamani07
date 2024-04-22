@@ -10,7 +10,7 @@
 
 - 💻 EMAIL ID : **chintavw07@gmail.com.**
 
-- 📄 Resume Link ==》 [https://www.canva.com/design/DAGCi3eEfTc/F7npp1FAp3FyA6_wzank5w/view?utm_content=DAGCi3eEfTc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel](https://www.canva.com/design/DAGCi3eEfTc/F7npp1FAp3FyA6_wzank5w/view?utm_content=DAGCi3eEfTc&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+- 📄 My Resume ==> [https://www.canva.com/design/DAGCcjVlQdM/PQGfPgQMi1nFgL__UGHIJQ/view?utm_content=DAGCcjVlQdM&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGCcjVlQdM/PQGfPgQMi1nFgL__UGHIJQ/view?utm_content=DAGCcjVlQdM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - ⚡ Fun fact : **Friend's call me Chinta.**
 
