@@ -4,6 +4,8 @@
 <h4 align="center"> 🚀 A Passionate Trainee Dot NET Developer from India 🚀 </h4>.
 <h5 align="left"> 🖥 Window's Desktop Application Development 🖥 </h5>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=chintamani07&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani07" /> </p>
 
