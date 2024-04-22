@@ -1,11 +1,11 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1518535%2Fscreenshots%2F7927296%2Fmedia%2Fc1574c1dec3fbc5f8cacb35683586bbf.gif&tbnid=NQLQxaVTRf8EaM&vet=1&imgrefurl=https%3A%2F%2Fsvauto.dk%2Ffunny-gifs-pc-gif-rr-NV2knZFd&docid=AfTRIzrx-LgTnM&w=1600&h=1200&itg=1&source=sh%2Fx%2Fim%2Fm5%2F2&kgs=87a8c10b5084d6f8&shem=abme%2Ctrie)]
+[![MasterHead](https://images.app.goo.gl/NkFypF8ZJ4Q3jjZXA)]
 
 <h2 align="center">Hi 👋, I'm Chintamani Vijaykumar Wankhede 🕶 </h2>
 <h4 align="center"> 🚀 A Passionate Trainee Dot NET Developer from India 🚀 </h4>.
 <h5 align="left"> 🖥 Window's Desktop Application Development 🖥 </h5>
 
 <img align="right" width="90" alt = "profile" src = 
-"https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1518535%2Fscreenshots%2F7927296%2Fmedia%2Fc1574c1dec3fbc5f8cacb35683586bbf.gif&tbnid=NQLQxaVTRf8EaM&vet=1&imgrefurl=https%3A%2F%2Fsvauto.dk%2Ffunny-gifs-pc-gif-rr-NV2knZFd&docid=AfTRIzrx-LgTnM&w=1600&h=1200&itg=1&source=sh%2Fx%2Fim%2Fm5%2F2&kgs=87a8c10b5084d6f8&shem=abme%2Ctrie">;
+"https://images.app.goo.gl/Wxfkj489ni1hB2YY9">;
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=chintamani07&label=Profile%20views&color=0e75b6&style=flat" alt="chintamani07" /> </p>
