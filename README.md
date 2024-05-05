@@ -32,8 +32,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Advanced Data Security Centric EMR System.](https://github.com/chintamani07/Advanced-Data-Security-Centric-EMR-System)
-
 - 🌱 I’m currently learning Framework : **ASP.NET, ASP.NET MVC.**
 
 - 📫 How to reach me **chintavw07@gmail.com**
