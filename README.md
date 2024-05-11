@@ -21,7 +21,7 @@
 
 # 🎖 Internshala : Overall Rating ☆☆☆☆/5.
 
-# 🪙 GUVI Geekoins : 3850.
+# 🪙 GUVI Geekoins : 4000.
 
 # 💎 Volunteer Work : MAP FEST 2K19-2K20.
 # 🖇 Coordinator Work : METASTORM 22-24 SAC 🔭 || NBA Student's Lead 🔭.
