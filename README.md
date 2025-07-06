@@ -13,7 +13,7 @@
 
 <p align="left">
 
-- 🔭 I’m currently working on [Advanced Data Security Centric EMR System.](https://github.com/chintamani07/Advanced-Data-Security-Centric-EMR-System)
+- 🔭 I have woked on [Advanced Data Security Centric EMR System.](https://github.com/chintamani07/Advanced-Data-Security-Centric-EMR-System)
 
 - 📷 I love Macro-Photography of insects || flowers || nature || various creatures, etc.
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact : **Friend's call me Chinta.**
 
-<h5 align="center"> # 🥉 <b>[MSBTE]</b> </br> 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik. </h5>
+<h5 align="center"> # 🎓 <b>[MSBTE]</b> </br> 🥉 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik. </h5>
 
 <h5 align="center"> # 🎖 Internshala : Overall Rating ☆☆☆☆/5. </h5>
 
