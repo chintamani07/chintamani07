@@ -11,15 +11,13 @@
 
 <h6 align="center"> 🖥 Window's Desktop Application Development 🖥 </h6>
 
-<p align="left">
+<h6 align="center"> 🔭 I have woked on [Advanced Data Security Centric EMR System.](https://github.com/chintamani07/Advanced-Data-Security-Centric-EMR-System) </h6>
 
-- 🔭 I have woked on [Advanced Data Security Centric EMR System.](https://github.com/chintamani07/Advanced-Data-Security-Centric-EMR-System)
+<h6 align="center"> 📷 I love Macro-Photography of insects || flowers || nature || various creatures, etc. </h6>
 
-- 📷 I love Macro-Photography of insects || flowers || nature || various creatures, etc.
+<h6 align="center"> 💻 EMAIL ID : **chintavw07@gmail.com.** </h6>
 
-- 💻 EMAIL ID : **chintavw07@gmail.com.**
-
-- ⚡ Fun fact : **Friend's call me Chinta.**
+<h6 align="center">⚡ Fun fact : **Friend's call me Chinta.** </h6>
 
 <h5 align="center"> 🎓 <b>[MSBTE]</b> </br> 🥉 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik. </h5>
 
