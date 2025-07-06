@@ -17,13 +17,13 @@
 
 - ⚡ Fun fact : **Friend's call me Chinta.**
 
-# 🥉 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik.
+<h5 align="center"> # 🥉 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik. </h5>
 
-# 🎖 Internshala : Overall Rating ☆☆☆☆/5.
+<h5 align="center"> # 🎖 Internshala : Overall Rating ☆☆☆☆/5. </h5>
 
-# 🪙 GUVI Geekoins : 4000.
+<h5 align="center"> # 🪙 GUVI Geekoins : 4000. </h5>
 
-# 💎 Volunteer Work : MAP FEST 2K19-2K20.
+<h5 align="center"> # 💎 Volunteer Work : MAP FEST 2K19-2K20. </h5>
 # 🖇 Coordinator Work : METASTORM 22-24 SAC 🔭 || NBA Student's Lead 🔭.
 
 
