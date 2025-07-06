@@ -24,7 +24,7 @@
 <h5 align="center"> # 🪙 GUVI Geekoins : 4000. </h5>
 
 <h5 align="center"> # 💎 Volunteer Work : MAP FEST 2K19-2K20. </h5>
-<h5 align="center"># 🖇 Coordinator Work : METASTORM 22-24 SAC 🔭 || NBA Student's Lead 🔭. </h5>
+<h5 align="center"># 🖇 Coordinator Work : ▪︎ METASTORM 22-24 SAC 🔭 ▪︎ NBA Student's Lead 🔭. </h5>
 </br></br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chintamani07" alt="chintamani07" /></a> </p>
