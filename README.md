@@ -3,7 +3,11 @@
 <img align="center" alt="Coding" width="1200" height="140" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0czFpNDV4ZDd1bmp6c28wNzk3ZXg1eWo2dGxqdWk4OGl3YXR4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif">
 <h4 align="center">👋 I'm Chintamani Vijaykumar Wankhede 🕶 </h4>
 
+<h5 align ="center"> 💻 Oracle SQL Developer @ Quest2Travel By MakeMyTrip </h5>
+
 <h5 align="center"> 🚀 Trainee Dot NET Developer 🚀 </h5>
+
+<h5 align="center"> 🎓 <b>[SPPU]</b> </br> B.E. Computer Engineering </br></h5>
 
 <h6 align="center"> 🖥 Window's Desktop Application Development 🖥 </h6>
 
@@ -17,7 +21,7 @@
 
 - ⚡ Fun fact : **Friend's call me Chinta.**
 
-<h5 align="center"> # 🥉 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik. </h5>
+<h5 align="center"> # 🥉 <b>[MSBTE]</b> </br> 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik. </h5>
 
 <h5 align="center"> # 🎖 Internshala : Overall Rating ☆☆☆☆/5. </h5>
 
