@@ -21,14 +21,14 @@
 
 - ⚡ Fun fact : **Friend's call me Chinta.**
 
-<h5 align="center"> # 🎓 <b>[MSBTE]</b> </br> 🥉 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik. </h5>
+<h5 align="center"> 🎓 <b>[MSBTE]</b> </br> 🥉 3rd Rank in Computer Engineering Diploma, Matoshri Aasarabai Polytechnic, Matoshri Educational Campus, Nashik. </h5>
 
-<h5 align="center"> # 🎖 Internshala : Overall Rating ☆☆☆☆/5. </h5>
+<h5 align="center"> 🎖 Internshala : Overall Rating 4/5. </h5>
 
-<h5 align="center"> # 🪙 GUVI Geekoins : 4000. </h5>
+<h5 align="center"> 🪙 GUVI Geekoins : 4000+ </h5>
 
-<h5 align="center"> # 💎 Volunteer Work : MAP FEST 2K19-2K20. </h5>
-<h5 align="center"># 🖇 Coordinator Work : </br> ▪︎ METASTORM 22-24 SAC 🔭 </br> ▪︎ NBA Student's Lead 🔭. </h5>
+<h5 align="center"> 💎 Volunteer Work : MAP FEST 2K19-2K20. </h5>
+<h5 align="center"> 🖇 Coordinator Work : </br> ▪︎ METASTORM 22-24 SAC 🔭 </br> ▪︎ NBA Student's Lead 🔭. </h5>
 </br></br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chintamani07" alt="chintamani07" /></a> </p>
